@@ -5,12 +5,12 @@
 
 <h3 align="left">Languages</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,cs,c" />
+    <img src="https://skillicons.dev/icons?i=js,ts,cs" />
   </a>
   
 <h3 align="left">Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,redux,styledcomponents,bootstrap,sass,css,html" />
+    <img src="https://skillicons.dev/icons?i=react,redux,styledcomponents,bootstrap,sass,css,html" />
   </a>
   
   
